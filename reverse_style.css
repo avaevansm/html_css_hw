@@ -1,0 +1,84 @@
+body {
+margin-bottom: 0px
+
+
+}
+
+
+main {
+  width: 1230px;
+  height: 630px;
+  position: absolute;
+  background-color: #E2A67F;
+
+}
+
+div {
+width: 750px;
+height: 600px;
+margin: 10px 20%;
+position:center;
+background-color: #F5F5DC;
+border:  dotted black;
+
+
+}
+
+nav {
+border-bottom: dotted black;
+text-align: center;
+
+}
+
+
+h1 {
+
+font-size: 3em;
+font-style: italic;
+font-style: bold;
+font-family: impact;
+margin: 3px
+border-bottom: dotted black;
+text-align: center;
+
+
+}
+ P {
+padding-left: 10px;
+padding-right: 10px;
+text-align: left;
+font-family: sans-serif;
+border: 15px 20%;
+margin-bottom: 0px;
+
+ }
+
+
+ aside {
+width: inherit;
+length: 00px
+text-align: center;
+padding-left: 10px;
+padding-right: 15px;
+padding-top: 0px;
+padding-bottom: 10px;
+text-align: center;
+font-family: sans-serif;
+font-size: 20px;
+ }
+
+ .poem {
+line-height: 1.5em;
+font-family: sans-serif;
+font-style: italic;
+text-align: center;
+margin-top: 0px
+ }
+
+ span {
+font-weight: bolder;
+ }
+ .info {
+font-size: .75em;
+text-align: center;
+ }
